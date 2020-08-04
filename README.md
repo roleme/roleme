@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋, I'm Roman
+- 🔭 I’m currently working at Infopark AG
 <!--
 **roleme/roleme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <p> Feel free to contact me</p>
+<a href="https://www.linkedin.com/in/roman-lemekha/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30"> Roman Lemekha
+</a>
+</div>
