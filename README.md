@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Roman
-- 🔭 I’m currently working at Infopark AG
+- 🔭 Software Engineer at Quorso 
 <!--
 **roleme/roleme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
